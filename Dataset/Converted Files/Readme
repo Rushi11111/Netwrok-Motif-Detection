@@ -1,0 +1,9 @@
+This folder contains the dataset converted to txt in the following format : 
+
+N M
+u1 v1
+u2 v2 
+...
+uM vM
+
+where N = number of nodes , M = number of edges and (u,v) denotes edge
